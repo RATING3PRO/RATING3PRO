@@ -2,7 +2,9 @@
 
 ## I'm RATING3PRO
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RATING3PRO&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RATING3PRO)](https://github.com/RATING3PRO/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RATING3PRO&show_icons=true)
+
+
 
 
 <!--
