@@ -4,7 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RATING3PRO)](https://github.com/RATING3PRO/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RATING3PRO&show_icons=true)
 
-
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RATING3PRO/RATING3PRO/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RATING3PRO/RATING3PRO/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 <!--
