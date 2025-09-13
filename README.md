@@ -2,7 +2,7 @@
 
 ## I'm RATING3PRO
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RATING3PRO)](https://github.com/RATING3PRO/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RATING3PRO&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RATING3PRO)](https://github.com/RATING3PRO/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api?username=RATING3PRO&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" align="right" width="50%" />
 
 <!-- snake -->
 <picture>
