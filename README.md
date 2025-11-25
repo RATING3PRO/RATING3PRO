@@ -2,7 +2,7 @@
 
 ## I'm RATING3PRO
 
-[![Top Langs][(https://github-readme-stats.zohan.tech/api?username=RATING3PRO&show_icons=true)]
+[Top Langs](https://github-readme-stats.zohan.tech/api?username=RATING3PRO&show_icons=true)
 
 <!-- snake -->
 <picture>
