@@ -2,6 +2,22 @@
 
 ## I'm RATING3PRO
 
+## GPG Public Key
+
+You can verify my commits and emails using my GPG public key:
+
+- **Fingerprint**:  
+  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302`
+- **Download**:  
+  [gpg-public-key.asc](./public.asc)
+
+### Import
+
+```bash
+gpg --import public.asc
+```
+
+
 [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=RATING3PRO&show_icons=true)](https://github.com/RATING3PRO)
 
 <!-- snake -->
