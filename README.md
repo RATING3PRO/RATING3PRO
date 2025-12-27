@@ -2,6 +2,8 @@
 
 ## I'm RATING3PRO
 
+![My GPG Public Key](/public.asc)
+
 [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=RATING3PRO&show_icons=true)](https://github.com/RATING3PRO)
 
 <!-- snake -->
