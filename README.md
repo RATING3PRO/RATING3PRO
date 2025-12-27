@@ -7,15 +7,18 @@
 You can verify my commits and emails using my GPG public key:
 
 - **Fingerprint**:  
-  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302`
+Gmail:  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302`
+xie.today Domain:  `09B7 B3D5 529B EDD5 C92F E886 249E EFF5 DE93 AEB9`
 - **Download**:  
-  [gpg-public-key.asc](./public.asc)
+  [gmail-public.asc](./gmail-public.asc)
 
 ### Import
 
 ```bash
-gpg --import public.asc
+gpg --import gmail-public.asc
+gpg --import xietoday-public.asc
 ```
+
 
 
 [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=RATING3PRO&show_icons=true)](https://github.com/RATING3PRO)
