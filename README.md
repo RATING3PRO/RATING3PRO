@@ -1,8 +1,6 @@
-### Hi
-
 ## I'm RATING3PRO
 
-## GPG Public Key
+### GPG Public Key
 
 You can verify my commits and emails using my GPG public key:
 
@@ -13,7 +11,7 @@ xie.today Domain:  `09B7 B3D5 529B EDD5 C92F E886 249E EFF5 DE93 AEB9`
   [gmail-public.asc](./gmail-public.asc)
   [xietoday-public.asc](./xietoday-public.asc)
 
-### Import
+#### Import
 
 ```bash
 gpg --import gmail-public.asc
@@ -23,6 +21,8 @@ gpg --import xietoday-public.asc
 ### Cloudflare BestIP CNAME
 
 ![cf.254301.xyz](https://vps789.com/public/view/35064)
+
+## Github Status
 
 [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=RATING3PRO&show_icons=true)](https://github.com/RATING3PRO)
 
