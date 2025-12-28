@@ -20,7 +20,9 @@ gpg --import gmail-public.asc
 gpg --import xietoday-public.asc
 ```
 
+### Cloudflare BestIP CNAME
 
+![cf.254301.xyz](https://vps789.com/public/view/35064)
 
 [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=RATING3PRO&show_icons=true)](https://github.com/RATING3PRO)
 
