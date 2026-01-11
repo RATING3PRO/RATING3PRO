@@ -21,6 +21,7 @@ gpg --import xietoday-public.asc
 ### Cloudflare BestIP CNAME
 
 ![cf.254301.xyz](https://vps789.com/public/view/35064)
+![isp.254301.xyz](https://vps789.com/public/view/36183)
 
 ## Github Status
 
