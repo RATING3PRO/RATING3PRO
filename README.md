@@ -22,6 +22,7 @@ gpg --import xietoday-public.asc
 
 ![cf.254301.xyz](https://vps789.com/public/view/35064)
 ![isp.254301.xyz](https://vps789.com/public/view/36183)
+![run.254301.xyz](https://vps789.com/public/view/37533)
 
 ## Status
 [![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=RATING3PRO&show_icons=true)](https://github.com/RATING3PRO)   ![IPv6 Certification](https://ipv6.he.net/certification/create_badge.php?pass_name=RATING3PRO&badge=3)
