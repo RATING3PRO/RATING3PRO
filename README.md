@@ -11,8 +11,8 @@ Gmail:  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302`
 xie.today Domain:  `09B7 B3D5 529B EDD5 C92F E886 249E EFF5 DE93 AEB9`
 
 - **Download**:  
-  [gmail-public.asc](https://github.com/RATING3PRO/RATING3PRO/blob/main/gmail-public.asc?raw=1)  
-  [xietoday-public.asc](https://github.com/RATING3PRO/RATING3PRO/blob/main/xietoday-public.asc?raw=1)
+  [gmail-public.asc](https://gitrawdl.xie.today/gmail-public.asc)  
+  [xietoday-public.asc](https://gitrawdl.xie.today/xietoday-public.asc)
 
 #### Import
 
