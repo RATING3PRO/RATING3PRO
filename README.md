@@ -28,7 +28,8 @@ gpg --import xietoday-public.asc
 ![run.254301.xyz](https://vps789.com/public/view/37533)
 
 ## Status
-[![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=RATING3PRO&show_icons=true)](https://github.com/RATING3PRO)   ![IPv6 Certification](https://ipv6.he.net/certification/create_badge.php?pass_name=RATING3PRO&badge=3)
+![GitHub Stats](https://beautiful-github-homepage.vercel.app/api?username=RATING3PRO)  ![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=rating3pro&hide_title=false&layout=compact)
+![IPv6 Certification](https://ipv6.he.net/certification/create_badge.php?pass_name=RATING3PRO&badge=3)
 
 <!-- snake -->
 <picture>
