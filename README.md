@@ -6,9 +6,9 @@ You can verify my commits and emails using my GPG public key:
 
 - **Fingerprint**:
 
-Gmail:  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302`
+[xiesmail2000@gmail.com](mailto:xiesmail2000@gmail.com):  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302`
 
-xie.today Domain:  `09B7 B3D5 529B EDD5 C92F E886 249E EFF5 DE93 AEB9`
+[me@xie.today](mailto:me@xie.today):  `09B7 B3D5 529B EDD5 C92F E886 249E EFF5 DE93 AEB9`
 
 - **Download**:  
   [gmail-public.asc](https://gitrawdl.xie.today/gmail-public.asc)  
