@@ -50,7 +50,6 @@ run.254301.xyz
 <p align="center">
   <img src="https://beautiful-github-homepage.vercel.app/api?username=RATING3PRO" height="165">
   <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=rating3pro&layout=compact" height="165">
-  <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=RATING3PRO&badge=3" height="165">
 </p>
 
 <!-- snake -->
