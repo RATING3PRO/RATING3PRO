@@ -47,8 +47,11 @@ run.254301.xyz
 </table>
 
 ## Stats
-![GitHub Stats](https://beautiful-github-homepage.vercel.app/api?username=RATING3PRO)  ![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=rating3pro&hide_title=false&layout=compact)
-![IPv6 Certification](https://ipv6.he.net/certification/create_badge.php?pass_name=RATING3PRO&badge=3)
+<p align="center">
+  <img src="https://beautiful-github-homepage.vercel.app/api?username=RATING3PRO" height="165">
+  <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=rating3pro&layout=compact" height="165">
+  <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=RATING3PRO&badge=3" height="165">
+</p>
 
 <!-- snake -->
 <picture>
