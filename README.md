@@ -23,11 +23,28 @@ gpg --import xietoday-public.asc
 
 ### Cloudflare BestIP CNAME
 
-<p align="center">
-  <img src="https://vps789.com/public/view/35064" width="32%">
-  <img src="https://vps789.com/public/view/36183" width="32%">
-  <img src="https://vps789.com/public/view/37533" width="32%">
-</p>
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://vps789.com/public/view/35064" width="250"><br>
+cf.254301.xyz
+
+</td>
+<td align="center">
+
+<img src="https://vps789.com/public/view/36183" width="250"><br>
+isp.254301.xyz
+
+</td>
+<td align="center">
+
+<img src="https://vps789.com/public/view/37533" width="250"><br>
+run.254301.xyz
+
+</td>
+</tr>
+</table>
 
 ## Stats
 ![GitHub Stats](https://beautiful-github-homepage.vercel.app/api?username=RATING3PRO)  ![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=rating3pro&hide_title=false&layout=compact)
