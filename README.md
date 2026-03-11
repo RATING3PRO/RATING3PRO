@@ -47,10 +47,23 @@ run.254301.xyz
 </table>
 
 ## Stats
-<p align="center">
-  <img src="https://beautiful-github-homepage.vercel.app/api?username=RATING3PRO" height="165">
-  <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=rating3pro&layout=compact" height="165">
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://beautiful-github-homepage.vercel.app/api?username=RATING3PRO" height="165">
+</td>
+
+<td align="center">
+<img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=rating3pro&layout=compact" height="165">
+</td>
+
+<td align="center">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iddbtd6xihm3hjsuq73i25chz4&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iddbtd6xihm3hjsuq73i25chz4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=true" height="165">
+</a>
+</td>
+</tr>
+</table>
 
 <!-- snake -->
 <picture>
