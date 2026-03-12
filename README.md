@@ -65,12 +65,13 @@ run.254301.xyz
 </tr>
 </table>
 
-<!-- snake -->
+<!-- snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RATING3PRO/RATING3PRO/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/RATING3PRO/RATING3PRO/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+-->
 
 <!--
 **RATING3PRO/RATING3PRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
