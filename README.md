@@ -12,16 +12,15 @@ You can verify my commits and emails using my GPG public key:
 
 - **Download**:
 
-  [gmail-public.asc](https://gitrawdl.xie.today/gmail-public.asc)
+  [gmail-public.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/998F25BB2AEDA891D2BF276A3B51466D78825302)
     
-  [xietoday-public.asc](https://gitrawdl.xie.today/xietoday-public.asc)
+  [xietoday-public.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/09B7B3D5529BEDD5C92FE886249EEFF5DE93AEB9)
 
 #### Import
 
 ```bash
-gpg --import gmail-public.asc
-
-gpg --import xietoday-public.asc
+gpg --import 998F25BB2AEDA891D2BF276A3B51466D78825302.asc
+gpg --import 09B7B3D5529BEDD5C92FE886249EEFF5DE93AEB9.asc
 ```
 
 ### Cloudflare BestIP CNAME
