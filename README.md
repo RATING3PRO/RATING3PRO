@@ -6,21 +6,16 @@ You can verify my commits and emails using my GPG public key:
 
 - **Fingerprint**:
 
-[xiesmail2000@gmail.com](mailto:xiesmail2000@gmail.com):  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302` @ `3B51466D78825302`
-
-[me@xie.today](mailto:me@xie.today):  `09B7 B3D5 529B EDD5 C92F E886 249E EFF5 DE93 AEB9` @ `249EEFF5DE93AEB9`
+[xiesmail2000@gmail.com](mailto:xiesmail2000@gmail.com) @ [me@xie.today](mailto:me@xie.today):  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302` @ `3B51466D78825302`
 
 - **Download**:
 
-  [gmail-public.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/998F25BB2AEDA891D2BF276A3B51466D78825302)
-    
-  [xietoday-public.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/09B7B3D5529BEDD5C92FE886249EEFF5DE93AEB9)
+  [public.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/998F25BB2AEDA891D2BF276A3B51466D78825302)
 
 #### Import
 
 ```bash
 gpg --import 998F25BB2AEDA891D2BF276A3B51466D78825302.asc
-gpg --import 09B7B3D5529BEDD5C92FE886249EEFF5DE93AEB9.asc
 ```
 
 ### Cloudflare BestIP CNAME
