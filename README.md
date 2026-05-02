@@ -6,7 +6,7 @@ You can verify my commits and emails using my GPG public key:
 
 - **Fingerprint**:
 
-[xiesmail2000@gmail.com](mailto:xiesmail2000@gmail.com) @ [me@xie.today](mailto:me@xie.today):  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302` @ `3B51466D78825302`
+[xiesmail2000@gmail.com](mailto:xiesmail2000@gmail.com) & [me@xie.today](mailto:me@xie.today):  `998F 25BB 2AED A891 D2BF 276A 3B51 466D 7882 5302` @ `3B51466D78825302`
 
 - **Download**:
 
