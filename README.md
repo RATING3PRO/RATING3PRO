@@ -18,31 +18,6 @@ You can verify my commits and emails using my GPG public key:
 gpg --import 998F25BB2AEDA891D2BF276A3B51466D78825302.asc
 ```
 
-### Cloudflare BestIP CNAME
-
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="https://vps789.com/public/view/35064" width="250"><br>
-cf.254301.xyz
-
-</td>
-<td align="center">
-
-<img src="https://vps789.com/public/view/36183" width="250"><br>
-isp.254301.xyz
-
-</td>
-<td align="center">
-
-<img src="https://vps789.com/public/view/37533" width="250"><br>
-run.254301.xyz
-
-</td>
-</tr>
-</table>
-
 ## Stats
 <table align="center">
 <tr>
